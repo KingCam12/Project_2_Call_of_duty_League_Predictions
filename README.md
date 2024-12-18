@@ -209,6 +209,10 @@ model.fit(X_train, y_train)
 ```
 dump(model, 'model_combined.pkl')
 ```
+## Results
+![output](https://github.com/user-attachments/assets/2de477d2-d19a-4a48-8065-9408896d1c42)
+![output 2](https://github.com/user-attachments/assets/831093c2-e1c5-4a47-896c-ae159c2a4439)
+![features](https://github.com/user-attachments/assets/0d60279f-ddb5-47a2-9542-3e142edc2468)
 
 # Future Enhancements
 Deploy the tool as a web app using Flask or Streamlit.
